@@ -20,5 +20,6 @@ Questions to answer
 4. Which variables are categorical?
 5. What is the target variable?
 6. What type of ML problem is each dataset suitable for?
-Deliverable
+
+Deliverable:
 Day_01_Dataset_Exploration.ipynb
