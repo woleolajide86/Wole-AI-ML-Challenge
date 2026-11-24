@@ -6,11 +6,11 @@ You should:
 • Import Pandas.
 • Load the three datasets.
 • Display:
-o number of rows
-o number of columns
-o column names
-o first 5 rows
-o last 5 rows
+- number of rows
+- number of columns
+- column names
+- first 5 rows
+- last 5 rows
 • Identify the target variable in each dataset.
 Questions to answer
 1. How many observations are in each dataset?
