@@ -1,27 +1,16 @@
 DAY 2 — Python & Pandas Fundamentals
 
-Task
-
 Using the three datasets, practise:
 
-
-• head()
-
-• tail()
-
-• shape
-
-• columns
-
-• info()
-
-• describe()
-
-• value_counts()
-
-• selecting columns
-
-• filtering rows
+- head()
+- tail()
+- shape
+- columns
+- info()
+- describe()
+- value_counts()
+- selecting columns
+- filtering rows
 
 Challenge - Find:
 
