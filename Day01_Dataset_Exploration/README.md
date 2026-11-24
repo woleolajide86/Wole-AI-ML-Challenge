@@ -11,6 +11,7 @@ You should:
 - column names
 - first 5 rows
 - last 5 rows
+- 
 • Identify the target variable in each dataset.
 Questions to answer
 1. How many observations are in each dataset?
