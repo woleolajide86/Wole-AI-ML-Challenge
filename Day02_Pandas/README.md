@@ -6,13 +6,21 @@ Using the three datasets, practise:
 
 
 • head()
+
 • tail()
+
 • shape
+
 • columns
+
 • info()
+
 • describe()
+
 • value_counts()
+
 • selecting columns
+
 • filtering rows
 
 Challenge - Find:
