@@ -1,0 +1,4 @@
+Dataset,Rows,Columns,Missing Values,Duplicates,Numerical Features,Categorical Features
+Student Performance,649,33,0,0,16,17
+Nigeria House Prices,24326,8,0,10438,5,3
+Stroke Disease,5110,12,201,0,7,5

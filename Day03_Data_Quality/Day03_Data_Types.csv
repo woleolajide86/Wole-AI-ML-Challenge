@@ -1,0 +1,54 @@
+Dataset,Column,Stored Data Type,Unique Values,Missing Values
+Student Performance,school,object,2,0
+Student Performance,sex,object,2,0
+Student Performance,age,int64,8,0
+Student Performance,address,object,2,0
+Student Performance,famsize,object,2,0
+Student Performance,Pstatus,object,2,0
+Student Performance,Medu,int64,5,0
+Student Performance,Fedu,int64,5,0
+Student Performance,Mjob,object,5,0
+Student Performance,Fjob,object,5,0
+Student Performance,reason,object,4,0
+Student Performance,guardian,object,3,0
+Student Performance,traveltime,int64,4,0
+Student Performance,studytime,int64,4,0
+Student Performance,failures,int64,4,0
+Student Performance,schoolsup,object,2,0
+Student Performance,famsup,object,2,0
+Student Performance,paid,object,2,0
+Student Performance,activities,object,2,0
+Student Performance,nursery,object,2,0
+Student Performance,higher,object,2,0
+Student Performance,internet,object,2,0
+Student Performance,romantic,object,2,0
+Student Performance,famrel,int64,5,0
+Student Performance,freetime,int64,5,0
+Student Performance,goout,int64,5,0
+Student Performance,Dalc,int64,5,0
+Student Performance,Walc,int64,5,0
+Student Performance,health,int64,5,0
+Student Performance,absences,int64,24,0
+Student Performance,G1,int64,17,0
+Student Performance,G2,int64,16,0
+Student Performance,G3,int64,17,0
+Nigeria House Prices,bedrooms,float64,9,0
+Nigeria House Prices,bathrooms,float64,9,0
+Nigeria House Prices,toilets,float64,9,0
+Nigeria House Prices,parking_space,float64,9,0
+Nigeria House Prices,title,object,7,0
+Nigeria House Prices,town,object,189,0
+Nigeria House Prices,state,object,25,0
+Nigeria House Prices,price,float64,539,0
+Stroke Disease,id,int64,5110,0
+Stroke Disease,gender,object,3,0
+Stroke Disease,age,float64,104,0
+Stroke Disease,hypertension,int64,2,0
+Stroke Disease,heart_disease,int64,2,0
+Stroke Disease,ever_married,object,2,0
+Stroke Disease,work_type,object,5,0
+Stroke Disease,Residence_type,object,2,0
+Stroke Disease,avg_glucose_level,float64,3979,0
+Stroke Disease,bmi,float64,418,201
+Stroke Disease,smoking_status,object,4,0
+Stroke Disease,stroke,int64,2,0

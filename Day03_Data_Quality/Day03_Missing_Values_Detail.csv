@@ -1,0 +1,54 @@
+Dataset,Column,Missing Values,Missing (%)
+Student Performance,school,0,0.0
+Student Performance,sex,0,0.0
+Student Performance,age,0,0.0
+Student Performance,address,0,0.0
+Student Performance,famsize,0,0.0
+Student Performance,Pstatus,0,0.0
+Student Performance,Medu,0,0.0
+Student Performance,Fedu,0,0.0
+Student Performance,Mjob,0,0.0
+Student Performance,Fjob,0,0.0
+Student Performance,reason,0,0.0
+Student Performance,guardian,0,0.0
+Student Performance,traveltime,0,0.0
+Student Performance,studytime,0,0.0
+Student Performance,failures,0,0.0
+Student Performance,schoolsup,0,0.0
+Student Performance,famsup,0,0.0
+Student Performance,paid,0,0.0
+Student Performance,activities,0,0.0
+Student Performance,nursery,0,0.0
+Student Performance,higher,0,0.0
+Student Performance,internet,0,0.0
+Student Performance,romantic,0,0.0
+Student Performance,famrel,0,0.0
+Student Performance,freetime,0,0.0
+Student Performance,goout,0,0.0
+Student Performance,Dalc,0,0.0
+Student Performance,Walc,0,0.0
+Student Performance,health,0,0.0
+Student Performance,absences,0,0.0
+Student Performance,G1,0,0.0
+Student Performance,G2,0,0.0
+Student Performance,G3,0,0.0
+Nigeria House Prices,bedrooms,0,0.0
+Nigeria House Prices,bathrooms,0,0.0
+Nigeria House Prices,toilets,0,0.0
+Nigeria House Prices,parking_space,0,0.0
+Nigeria House Prices,title,0,0.0
+Nigeria House Prices,town,0,0.0
+Nigeria House Prices,state,0,0.0
+Nigeria House Prices,price,0,0.0
+Stroke Disease,id,0,0.0
+Stroke Disease,gender,0,0.0
+Stroke Disease,age,0,0.0
+Stroke Disease,hypertension,0,0.0
+Stroke Disease,heart_disease,0,0.0
+Stroke Disease,ever_married,0,0.0
+Stroke Disease,work_type,0,0.0
+Stroke Disease,Residence_type,0,0.0
+Stroke Disease,avg_glucose_level,0,0.0
+Stroke Disease,bmi,201,3.93
+Stroke Disease,smoking_status,0,0.0
+Stroke Disease,stroke,0,0.0

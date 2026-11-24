@@ -1,0 +1,17 @@
+Dataset,Column,Expected Minimum,Expected Maximum,Potentially Unusual Values
+Student Performance,age,15,22.0,0
+Student Performance,G1,0,20.0,0
+Student Performance,G2,0,20.0,0
+Student Performance,G3,0,20.0,0
+Student Performance,absences,0,,0
+Nigeria House Prices,bedrooms,0,,0
+Nigeria House Prices,bathrooms,0,,0
+Nigeria House Prices,toilets,0,,0
+Nigeria House Prices,parking_space,0,,0
+Nigeria House Prices,price,0,,0
+Stroke Disease,age,0,120.0,0
+Stroke Disease,bmi,0,,0
+Stroke Disease,avg_glucose_level,0,,0
+Stroke Disease,hypertension,0,1.0,0
+Stroke Disease,heart_disease,0,1.0,0
+Stroke Disease,stroke,0,1.0,0
