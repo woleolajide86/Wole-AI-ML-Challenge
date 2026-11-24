@@ -1,4 +1,7 @@
+DAY 2 — Python & Pandas Fundamentals
+
 Task
+
 Using the three datasets, practise:
 • head()
 • tail()
