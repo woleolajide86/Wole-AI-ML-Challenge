@@ -1,6 +1,8 @@
 DAY 1 — Meet Your Datasets Task
+
 Load all three datasets into Python.
-Chigo should:
+
+You should:
 • Import Pandas.
 • Load the three datasets.
 • Display:
